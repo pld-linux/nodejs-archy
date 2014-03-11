@@ -4,9 +4,9 @@ Version:	0.0.2
 Release:	1
 License:	MIT/X11
 Group:		Development/Libraries
-URL:		https://github.com/substack/archy
 Source0:	http://registry.npmjs.org/archy/-/archy-%{version}.tgz
 # Source0-md5:	382ccc6cdaa38b4eadadcc259faf1931
+URL:		https://github.com/substack/archy
 BuildRequires:	rpmbuild(macros) >= 1.634
 Requires:	nodejs
 BuildArch:	noarch
