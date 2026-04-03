@@ -1,7 +1,7 @@
 Summary:	Renders nested hierarchies with unicode pipes
 Name:		nodejs-archy
 Version:	0.0.2
-Release:	1
+Release:	2
 License:	MIT/X11
 Group:		Development/Libraries
 Source0:	http://registry.npmjs.org/archy/-/archy-%{version}.tgz
